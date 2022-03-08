@@ -22,7 +22,7 @@ author: Emilie d'Olne
 title: Emilie d'Olne
 email: emilie.dolne16@imperial.ac.uk
 description: >-
-baseurl: "/emiliedolne" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ed1016
 linkedin_username:  emiliedolne
