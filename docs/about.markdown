@@ -19,8 +19,8 @@ Download a detailed PDF <a style="color:#4CAE04" href="../assets/cv.pdf">here</a
 <p style="color:#828282"> 2019 - present: <ins style="color:#000000; font-size:16px; text-decoration: none;"> Teaching Assistant, <i> EEE department, Imperial College London</i></ins></p>
 <p style="color:#828282"> 2019: <ins style="color:#000000; font-size:16px; text-decoration: none;"> Research Intern, <i>Speech and Audio Processing Lab, Imperial College London</i></ins></p>
 
-<h3 style="color:#111111"> Publications </h3>
-<p style="color:#828282"> 2021: <ins style="color:#000000; font-size:16px; text-decoration: none;"> E. d'Olne, A. H. Moore, and P. A. Naylor, "Model-based beamforming for wearable microphone arrays", in <i>Proc.  Eur.  Signal  Process.  Conf. (EUSIPCO)</i>, Dublin, Ireland, 2021.</ins></p>
+<!-- <h3 style="color:#111111"> Publications </h3>
+<p style="color:#828282"> 2021: <ins style="color:#000000; font-size:16px; text-decoration: none;"> E. d'Olne, A. H. Moore, and P. A. Naylor, "Model-based beamforming for wearable microphone arrays", in <i>Proc.  Eur.  Signal  Process.  Conf. (EUSIPCO)</i>, Dublin, Ireland, 2021.</ins></p> -->
 
 
 <h3 style="color:#111111"> Achievements </h3>
