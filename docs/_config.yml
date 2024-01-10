@@ -11,9 +11,9 @@ title                    : "Emilie d'Olne"
 title_separator          : "-"
 name                     : &name "Emilie d'Olne"
 description              : &description ""
-url                      : http://localhost:4000/ #https://ed1016.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ed1016.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : 
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emilie d'Olne"
-  avatar           : "./assets/img/ZOX_8710.jpg"
+  avatar           : "ZOX_8710.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Imperial College London"
   employer         :
@@ -131,7 +131,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "LinkedIn"
+    - label: " LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/emiliedolne"
 # Site Footer
