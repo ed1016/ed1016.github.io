@@ -21,3 +21,7 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+{% if page.headscript %}
+    {{ page.headscript }}
+{% endif %}
