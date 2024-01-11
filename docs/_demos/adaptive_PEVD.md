@@ -3,8 +3,8 @@ title: "Demonstration"
 collection: demos
 permalink: demos/adaptive_PEVD/
 redirect_from: 
-	- /adaptive_PEVD
-	- /adaptive_PEVD/
+  - /adaptive_PEVD/
+  - /adaptive_PEVD
 subtitle: "Frame-based space-time covariance matrix estimation for PEVD-based speech enhancement"
 ---
 

@@ -4,12 +4,9 @@ collection: demos
 permalink: demos/se_PEVD_da/
 redirect_from: /se_PEVD_da
 subtitle: "Speech Enhancement in Distributed Microphone Arrays Using Polynomial Eigenvalue Decomposition"
-script: '<script type="text/javascript" src="{{ base_path }}/assets/js/custom.js"></script><script type="text/javascript">jQuery(document).ready(function() {jQuery(".player").trackSwitch({spacebar: true});});var settings = {onlyradiosolo: true,repeat: true,};$(".player").trackSwitch(settings);</script>'
-headscript: '<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" /><link rel="stylesheet" href="{{ base_path }}/assets/css/trackswitch.min.css" />'
+script: '<script type="text/javascript" src="../../assets/js/custom.js"></script><script type="text/javascript">jQuery(document).ready(function() {jQuery(".player").trackSwitch({spacebar: true});});var settings = {onlyradiosolo: true,repeat: true,};$(".player").trackSwitch(settings);</script>'
+headscript: '<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" /><link rel="stylesheet" href="../../assets/css/trackswitch.min.css" />'
 ---
-<head>
-<link rel="stylesheet" href="{{ base_path }}/assets/css/trackswitch.min.css" />
-</head>
 This demonstration provides listening examples of speech enhancement in distributed microphone arrays using a PEVD algorithm presented in [this paper](https://ed1016.github.io/publication/2022_08_29_EUSIPCO).
 
 In all cases, results are compared against
