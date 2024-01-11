@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Download a detailed PDF <a href="../files/cv.pdf">here</a>.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Education
+<span style="color:#828282"> 2020 -- present </span> &emsp;PhD in Speech and Audio Processing, <i>Imperial College London</i>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<span style="color:#828282"> 2016 -- 2020 </span> &emsp;MEng. Electrical and Electronic Engineering, <i>Imperial College London</i>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<span style="color:#828282"> 2010 -- 2016 </span> &emsp;Certificat d'Enseignement Secondaire Supérieur (CESS), <i>Athénée Royal Charles Rogier, Liège, Belgium</i>
+
+### Experience
+<span style="color:#828282"> 2023 </span> &emsp;Research Assistant, <i>Speech and Audio Processing Lab, Imperial College London</i>
+
+<span style="color:#828282"> 2022 </span> &emsp;Research Scientist Intern, <i>Nuance Communications (Microsoft)</i>
+
+<span style="color:#828282"> 2019 </span> &emsp;Research Intern, <i>Speech and Audio Processing Lab, Imperial College London</i>
+
+<span style="color:#828282"> 2019 -- present </span> &emsp;Teaching Assistant, <i>EEE Department, Imperial College London</i>
+
+
+
+### Volunteering
+<span style="color:#828282"> 2021 -- present </span> &emsp;Vice-Chair, Treasurer, <i>IEEE Student Branch, Imperial College London</i>
+
+<span style="color:#828282"> 2021 -- 2023 </span> &emsp;Postgraduate Student Representative, <i>CSP Group, Imperial College London</i>
+
+### Achievements
+
+<span style="color:#828282"> 2020 </span> &emsp;Institute of Engineering and Technology (IET) Prize, <i>EEE Department, Imperial College London</i>
+
+<span style="color:#828282"> 2018, 2019, 2020 </span> &emsp;Dean's List for Academic Excellence, <i>EEE Department, Imperial College London</i>

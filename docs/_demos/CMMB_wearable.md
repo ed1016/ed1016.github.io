@@ -5,7 +5,7 @@ permalink: demos/CMMB_wearable
 redirect_from: 
   - /CMMB-wearable/
   - /CMMB-wearable
-subtitle: "Model-based Beamorming for Wearable Microphone Arrays"
+subtitle: "Model-based Beamforming for Wearable Microphone Arrays"
 script: '<script type="text/javascript" src="../../assets/js/custom.js"></script><script type="text/javascript">jQuery(document).ready(function() {jQuery(".player").trackSwitch({spacebar: true});});var settings = {onlyradiosolo: true,repeat: true,};$(".player").trackSwitch(settings);</script>'
 headscript: '<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" /><link rel="stylesheet" href="../../assets/css/trackswitch.min.css" />'
 ---
