@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Emilie d'Olne"
   avatar           : "ZOX_8710.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in Speech and Audio Processing"
   location         : "Imperial College London"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.co.uk/citations?user=rDmywu0AAAAJ&hl=en"
+  email            : "emilie.dolne16@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "ed1016"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://linkedin.com/in/emiliedolne"
+  orcid            : "https://orcid.org/0000-0002-6105-6011"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,50 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:emilie.dolne16@imperial.ac.uk"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: " LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/emiliedolne"
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:s
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ed1016"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: " LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/emiliedolne"
-# Reading Files
+
 include:
   - .htaccess
   - _pages
