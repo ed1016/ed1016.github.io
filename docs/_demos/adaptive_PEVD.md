@@ -8,7 +8,7 @@ redirect_from:
 subtitle: "Frame-based space-time covariance matrix estimation for PEVD-based speech enhancement"
 ---
 
-This animation shows the beampatterns obtained through polynomial eigenvalue (PEVD) decomposition of the frame-based space-time covariance matrix estimate obtained following the procedure in [1](https://ed1016.github.io/publication/2022_09_05_IWAENC).
+This animation shows the beampatterns obtained through polynomial eigenvalue (PEVD) decomposition of the frame-based space-time covariance matrix estimate obtained following the procedure in [[1]](https://ed1016.github.io/publication/2022_09_05_IWAENC).
 
 The desired speech source is located at 90° and is corrupted by diffuse speech-shaped noise at 0 dB SNR.
 
