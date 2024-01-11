@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-For current Signals and Systems ([ELEC50013](https://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=ELEC50013&s=E2#start)) students &ensp;  &ensp; <a href="https://youtube.com/playlist?list=PLvTjxM_gc8NY_7kWzf3IYvSMbhbsI6JEw"> Videos</a> &ensp; -- &ensp; <a href="../assets/teaching/SS_pastpaper_mistakes.pdf"> Past paper mistakes</a>
+For current Signals and Systems ([ELEC50013](https://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=ELEC50013&s=E2#start)) students &ensp;  &ensp; <a href="https://youtube.com/playlist?list=PLvTjxM_gc8NY_7kWzf3IYvSMbhbsI6JEw"> Videos</a> &ensp; -- &ensp; <a href="../../files/teaching/SS_pastpaper_mistakes.pdf"> Past paper mistakes</a>
 
 ### Graduate Teaching Assistant
 
