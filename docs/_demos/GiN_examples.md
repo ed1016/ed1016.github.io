@@ -7,9 +7,27 @@ redirect_from:
   - /GiN_examples
 subtitle: "Illustrative examples"
 ---
+This page provides some illustrative examples of the recordings in the [GiN database](/publication/2023_12_19_GIN). Full information about the database can be found in [the paper](https://doi.org/10.1109/OJSP.2023.3344379) and the full data can be access through [this link](https://data.hpc.imperial.ac.uk/resolve/?doi=13463).
 
-This page will ideally show some examples of the audio samples in the GiN database. 
-Test
+The examples here are best presented through headphones.
+
+## Task comparison
+
+This example shows the difference in sound scene between the different tasks performed in each session, as measured at the reference microphone.
+
+* __Task 1: reading task__. Speakers must read a passage from *Alice in Wonderland* one at a time, such that there should not be any overlapping speech. <audio id="soundtask1" src="../../files/GiN_examples/audio/all_tasks/task1.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('soundtask1').play();">Listen</button>
+* __Task 2: group task__. The group must decide on a holiday destination that suits everyone's secret constraint. There should be mild levels of overlapping speech. <audio id="soundtask2" src="../../files/GiN_examples/audio/all_tasks/task2.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('soundtask2').play();">Listen</button>
+* __Task 3: pair task__. Participants must play a game of *I spy* while using synonyms to yes and no. There should be almost continuous levels of overlapping speech. <audio id="soundtask3" src="../../files/GiN_examples/audio/all_tasks/task3.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('soundtask3').play();">Listen</button>
+* __Task 4: group task__. The group must play a game of *Go fish* with clear turn taking. There should be limited levels of overlapping speech. <audio id="soundtask4" src="../../files/GiN_examples/audio/all_tasks/task4.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('soundtask4').play();">Listen</button>
+
+
+These excerpts are taken from the `room_faraday/session_1/reference_audio/*` and files. 
+ 
+## Channel comparison
+This example shows the difference in sound scene capture between the different close-talking microphones, the binaural microphones worn by 'Participant 3', and the reference microphone. The baseline enhancement is also provided.
+
+
+Click on the buttons to hear the microphone recordings.
 
 <table style="border-collapse: collapse; border: none; text-align: center;">
   <tr style="border: none;">
@@ -42,14 +60,25 @@ Test
     </th>
     <th style="border: none; text-align: center;"></th>
   </tr>
+</table>
+These excerpts are taken from the `room_faraday/session_1/*/02_00_000` files. 
 
+
+## Room comparison
+This example shows the difference in sound scene between rooms in the database, as measured at the reference microphone.
+
+Click on each picture to hear the recordings.
+<table style="border-collapse: collapse; border: none; text-align: center;">
+  <tr style="border: none;">
+    <th width="30%" style="border: none; text-align: center;"><audio id="sound403" src="../../files/GiN_examples/audio/task0_all_rooms/403.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('sound403').play();"><img src="../../files/GiN_examples/figs/room_403b.jpg" /></button></th>
+    <th width="30%" style="border: none; text-align: center;"><audio id="sound807" src="../../files/GiN_examples/audio/task0_all_rooms/807.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('sound807').play();"><img src="../../files/GiN_examples/figs/807.jpg" /></button></th>
+    <th width="30%" style="border: none; text-align: center;"><audio id="soundfaraday" src="../../files/GiN_examples/audio/task0_all_rooms/faraday.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('soundfaraday').play();"><img src="../../files/GiN_examples/figs/faraday.jpg" /></button></th>
+  </tr>
+  <tr style="border: none;">
+    <th style="border: none; text-align: center;"> Room 403 </th>
+    <th style="border: none; text-align: center;"> Room 807 </th>
+    <th style="border: none; text-align: center;"> Room Faraday</th>
+  </tr>
 </table>
 
-test2
-
-
-
-### References
-
-<!-- [1] &emsp; E. d'Olne, V. W. Neo, and P. A. Naylor, Frame-based space-time covariance matrix estimation for polynomial eigenvalue decomposition-based speech enhancement, in <i> Proc. IEEE Int. Workshop on Acoust. Signal Enhancement (IWAENC)</i>, Bamberg, Germany, 2022.
-s -->
+These excerpts are taken from the `room_403/session_2/reference_audio/00_00_000` and `room_*/session_2/reference_audio/00_00_000` files. 
