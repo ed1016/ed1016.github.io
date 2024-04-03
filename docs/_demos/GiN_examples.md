@@ -28,7 +28,7 @@ These excerpts are taken from the `room_faraday/session_1/reference_audio/*` fil
 This example shows the difference in sound scene capture between the different close-talking microphones, the binaural microphones worn by 'Participant 3', and the reference microphone. The baseline enhancement is also provided.
 
 
-Click on the buttons to hear the microphone recordings.
+Click on the buttons to listen to the microphone recordings.
 
 <table style="border-collapse: collapse; border: none; text-align: center;">
   <tr style="border: none;">
@@ -68,7 +68,7 @@ These excerpts are taken from the `room_faraday/session_1/*/02_00_000` files.
 ## Room comparison
 This example shows the difference in sound scene between rooms in the database, as measured at the reference microphone.
 
-Click on each picture to hear the recordings.
+Click on each picture to listen to the recordings.
 <table style="border-collapse: collapse; border: none; text-align: center;">
   <tr style="border: none;">
     <th width="30%" style="border: none; text-align: center;"><audio id="sound403" src="../../files/GiN_examples/audio/task0_all_rooms/403.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('sound403').play();"><img src="../../files/GiN_examples/figs/room_403b.jpg" /></button></th>
