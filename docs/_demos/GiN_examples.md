@@ -6,6 +6,7 @@ redirect_from:
   - /GiN_examples/
   - /GiN_examples
 subtitle: "Illustrative examples"
+author_profile: false
 ---
 This page provides some illustrative examples of the recordings in the [GiN database](/publication/2023_12_19_GIN). Full information about the database can be found in [the paper](https://doi.org/10.1109/OJSP.2023.3344379) and the full data can be access through [this link](https://data.hpc.imperial.ac.uk/resolve/?doi=13463).
 
