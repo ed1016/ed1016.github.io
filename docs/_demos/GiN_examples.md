@@ -22,7 +22,7 @@ This example shows the difference in sound scene between the different tasks per
 * __Task 4: group task__. The group must play a game of *Go fish* with clear turn taking. There should be limited levels of overlapping speech. <audio id="soundtask4" src="../../files/GiN_examples/audio/all_tasks/task4.wav" preload="none" autoplay=false type="audio/wav"></audio><button onclick="document.getElementById('soundtask4').play();">Listen</button>
 
 
-These excerpts are taken from the `room_faraday/session_1/reference_audio/*` and files. 
+These excerpts are taken from the `room_faraday/session_1/reference_audio/*` files. 
  
 ## Channel comparison
 This example shows the difference in sound scene capture between the different close-talking microphones, the binaural microphones worn by 'Participant 3', and the reference microphone. The baseline enhancement is also provided.
