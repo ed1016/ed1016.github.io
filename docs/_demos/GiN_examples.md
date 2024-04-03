@@ -81,4 +81,4 @@ Click on each picture to hear the recordings.
   </tr>
 </table>
 
-These excerpts are taken from the `room_403/session_2/reference_audio/00_00_000` and `room_*/session_2/reference_audio/00_00_000` files. 
+These excerpts are taken from the `room_403/session_2/reference_audio/00_00_000` and `room_*/session_1/reference_audio/00_00_000` files. 
